@@ -1,0 +1,56 @@
+[
+  {
+    "year": 2017,
+    "seeds": [
+      "Maïs",
+      "Haricots vigneron",
+      "Sarasin",
+      "Courgettes",
+      "Butternut",
+      "Potimarron",
+      "Tomates - Geranium Kiss",
+      "Artichaux",
+      "Fraises",
+      "Amaranthe",
+      "Salade - scarolle",
+      "poireaux"
+    ],
+    "beds" : [
+      "parcelle 0",
+      "parcelle 1",
+      "parcelle 2",
+      "parcelle 3",
+      "parcelle 4"
+    ],
+    "tools" : [
+      "bac à semi + couvercle"
+    ]
+  },
+  {
+    "year": 2018,
+    "seeds": [
+      "Maïs",
+      "Haricots vigneron",
+      "Sarasin",
+      "Courgettes",
+      "Butternut",
+      "Potimarron",
+      "Tomates - Geranium Kiss",
+      "Artichaux",
+      "Fraises",
+      "Amaranthe",
+      "Salade - scarolle",
+      "poireaux"
+    ],
+    "beds" : [
+      "parcelle 0",
+      "parcelle 1",
+      "parcelle 2",
+      "parcelle 3",
+      "parcelle 4"
+    ],
+    "tools" : [
+      "bac à semi + couvercle"
+    ]
+  }
+]
