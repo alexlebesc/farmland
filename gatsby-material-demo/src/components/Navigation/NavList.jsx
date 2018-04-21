@@ -29,7 +29,7 @@ function GetNavList(config) {
   NavList.push({ divider: true });
 
   NavList.push({
-    primaryText: "About",
+    primaryText: "Creperie",
     leftIcon: <FontIcon>person</FontIcon>,
     component: Link,
     to: "/about/"
